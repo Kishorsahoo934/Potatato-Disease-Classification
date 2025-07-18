@@ -1,0 +1,11 @@
+# Virtual environments
+venv_tf/
+.venv/
+env/
+venv/
+
+# Environment config files
+.env/
+
+# Large model files
+*.h5
