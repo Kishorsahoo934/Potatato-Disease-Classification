@@ -17,15 +17,20 @@ An intelligent web application built using **Streamlit** and **TensorFlow/Keras*
 
 ---
 
-## 🖼️ Sample UI
 
-<img src="https://user-images.githubusercontent.com/your-screenshot.png" alt="App Screenshot" width="800"/>
 
 ---
 
 ## 📂 Project Structure
 
-
+📦 Potato-Disease-Classification
+├── 📁 potato_model # Saved Keras Model (.h5)
+├── 📁 dataset # Training Data (Not pushed to GitHub)
+├── 📁 streamlit_app # Streamlit UI & app logic
+│ ├── app.py # Main Streamlit code
+├── .gitignore
+├── README.md
+├── requirements.txt
 
 
 ---
