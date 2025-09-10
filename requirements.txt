@@ -1,4 +1,7 @@
-tensorflow>=2.16.1
-streamlit==1.25.0
-Pillow==9.5.0
-numpy>=1.24
+Flask==3.1.2
+Flask-RESTful==0.3.10
+Flask-Cors==6.0.1
+tensorflow==2.13.0
+pillow==10.0.0
+numpy==1.25.0
+pandas==2.1.0
